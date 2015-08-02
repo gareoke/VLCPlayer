@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VLCPlayerSample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_video_vlc">VideoVLCActivity</string>
+
+    <string name="default_video">http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4</string>
+    <string name="play_video">Play Video</string>
+
+</resources>
